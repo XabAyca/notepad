@@ -1,0 +1,17 @@
+.app-main-note-preview {
+  border-bottom: 3px solid $secondary-color;
+  overflow-y: auto;
+}
+
+.preview-title {
+  padding: 25px 25px 0 25px;
+  margin: 0;
+  color:$primary-color;
+}
+
+.markdown-preview {
+  padding: 0 25px 25px 25px;
+  font-size: 1rem;
+  line-height: 2rem;
+  color:$secondary-color;
+}
